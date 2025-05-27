@@ -1,6 +1,5 @@
 # Laravel Loan Management Process
-
-It is a demo project for demonstrating of Business Process Management in Laravel, and also what can be generated with our [QuickAdminPanel](https://2019.quickadminpanel.com) tool. 
+A loan management system
 
 ## How to use
 
@@ -17,8 +16,3 @@ Basically, feel free to use and re-use any way you want.
 
 ---
 
-## More from our LaravelDaily Team
-
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
